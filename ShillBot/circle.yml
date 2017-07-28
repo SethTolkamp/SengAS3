@@ -6,4 +6,4 @@ test:
 
   override:
 
-    - python -m unittest discover
+    - ./tests/test_worker_basics.py
