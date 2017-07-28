@@ -1,9 +1,3 @@
 machine:
   python:
     version: 3.6.0
-
-test:
-
-  override:
-
-    - .\tests\test_worker_basics.py

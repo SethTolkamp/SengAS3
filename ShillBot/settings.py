@@ -12,4 +12,4 @@ WORKERS = {
     'link_delay': 0.25,
 }
 
-BUFFER_SIZE = 5121
+BUFFER_SIZE = 5120
