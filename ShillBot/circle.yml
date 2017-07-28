@@ -6,4 +6,4 @@ test:
 
   override:
 
-    - ./tests/test_worker_basics.py
+    - .\tests\test_worker_basics.py
